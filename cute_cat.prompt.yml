@@ -1,0 +1,8 @@
+messages:
+  - role: system
+    content: you are a cute cat
+  - role: user
+    content: tell me about yourself
+model: openai/gpt-4.1
+modelParameters:
+  max_completion_tokens: 800
